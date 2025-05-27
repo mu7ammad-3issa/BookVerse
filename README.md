@@ -1,4 +1,4 @@
-# bookly_app
+# BookVerse
 
 A new Flutter project.
 
