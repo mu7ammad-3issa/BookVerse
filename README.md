@@ -38,6 +38,27 @@ BookVerse is a Flutter-based mobile application designed for book lovers to disc
     * Equatable for value equality.
     * Flutter Lints for code analysis.
 
+## 🖼️ Screenshots
+
+Here's a glimpse of BookVerse:
+
+### 1. Splash View
+![Screenshot_٢٠٢٥٠٥٢٨-١٨٤٦٠٧](https://github.com/user-attachments/assets/b974879b-93b1-4ef0-a35d-3a649869bba0)
+
+
+### 2. Home View
+![Screenshot_٢٠٢٥٠٥٢٨-١٨٤٦١٣](https://github.com/user-attachments/assets/eb14507b-f38a-41da-b2a1-8dd7b0d647b5)
+
+
+### 3. Book Details View
+![Screenshot_٢٠٢٥٠٥٢٨-١٨٤٦٢٣](https://github.com/user-attachments/assets/d463d21d-74d7-485b-9856-4c38c2418518)
+
+
+### 4. Search View
+![Screenshot_٢٠٢٥٠٥٢٨-١٨٤٧٢٨](https://github.com/user-attachments/assets/1100f9b8-26c9-4d87-8c84-ad1b6a2ef02d)
+
+
+
 ## 🚀 Getting Started
 
 This project is a standard Flutter application. To get started:
